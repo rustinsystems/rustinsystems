@@ -1,7 +1,7 @@
 # Welcome to my land of projects that made it into the sunlight!
 ## Still in development
 
-👋 Hi there! I'm snowy, a passionate software developer with a knack for coding projects as efficiently as possible so I can debug my dotfiles instead.
+👋 Hi there! I'm Shahied Rustin, a passionate software developer with a knack for coding projects as efficiently as possible so I can debug my dotfiles instead.
 <table>
   <tr>
     <td>
